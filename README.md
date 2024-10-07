@@ -2,6 +2,20 @@
 
 This Python project automates tasks such as checking in, spinning a daily spinner, claiming farming rewards, and upgrading a "Crush Locker" using cron-like scheduling. The script runs periodically in the background and doesn't require a web server.
 
+## Start Bot
+
+SecondLive Mini App (TON)
+
+Reward: Lovely
+
+Link:
+https://t.me/Secondlive_bot/app?startapp=s2eokxks
+- Click Bounty
+- Complete All Task
+- Connect Wallet (BURNER)
+- Claim Daily adn spin daily
+- Done
+
 ## Features
 - **Check-in Task**: Automates daily check-in requests.
 - **Daily Spinner**: Automates spinning the daily spinner for rewards.
