@@ -23,7 +23,10 @@ This Python project automates tasks such as checking in, spinning a daily spinne
    ```bash
    git clone https://github.com/vinskasenda/secondlive-bot.git
    cd secondlive-bot
-2. **Run Bot**:
+2. **Edit Your Config.json**:
+   ```bash
+   nano config.json
+3. **Run Bot**:
    ```bash
    python index.py
    ```
